@@ -6,3 +6,4 @@ Chaghatai(an uyghur language using  until the early 20th century) Keyboard Layou
 
 [image](Keyboard Layouts/keyboard layout images/Chaghata.jpg)
 
+[image](Keyboard Layouts/keyboard layout images/ShiftChaghata.jpg)
